@@ -16,3 +16,4 @@ Stay connected with your riding buddies while off-roading in places far away fro
 - Optional Temp/Hum/Pressure sensor can send potentially useful data to the rest of your group.
 - On-board GPS will keep sending your position even after your phone is disconnected.
 - A buzzer to notify you when messages are recieved. 
+- 100% compatible with official Meshtastic DIY V1 firmware so you can stay up to date when new versions are released. No custom firmware needed!
