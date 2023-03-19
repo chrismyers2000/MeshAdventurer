@@ -9,7 +9,7 @@ Stay connected with your riding buddies while off-roading in places far away fro
 ![3D_Vehicle Station V1 pcb_2023-03-19 (1)](https://user-images.githubusercontent.com/42948238/226155903-f0a3d358-b210-4ae8-a519-7b6a86f0ebf4.png)
 
 ## Features:
-- 1W transmit power for extended range compared to normal Meshtastic hardware (approximately 10 times more power!).
+- 1W transmit power for extended range compared to normal Meshtastic hardware (typically 100mW-160mW).
 - Uses 900Mhz band that is able to penetrate dense foliage better than wifi or bluetooth
 - Wide range voltage input (6V-30V), It can be powered by USB or barrel plug making it extremely versitile. You can even power it using a solar panel! 
 - OLED display and rotary encoder with "Canned messages", these are messages pre-programmed by you that can be sent without the need of a connected smart phone. This is especially useful if your phone dies and you are in an emergency situation.
