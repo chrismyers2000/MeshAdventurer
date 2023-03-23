@@ -28,4 +28,4 @@ Simply upload the gerber .zip file to JLCPCB and follow the instructions. Most o
 
 ## Disclaimer
 
-The hardware is currently in testing phase but should work fine, it all worked on the breadboard. 
+The hardware is currently in testing phase but should work fine, it all worked on the breadboard. Future versions may include a Li-ion charging circuit. 
