@@ -10,7 +10,7 @@ Stay connected with your friends while off-roading in places far away from civil
 
 ## Features:
 - 1W transmit power for extended range compared to normal Meshtastic hardware (typically 100mW-160mW).
-- Wide range voltage input (6V-30V), It can be powered by USB or barrel plug making it extremely versitile. You can even power it using a solar panel! 
+- Wide range voltage input (9-28V), It can be powered by USB or barrel plug making it extremely versitile. You can even power it using a solar panel! 
 - OLED display and rotary encoder with "Canned messages", these are messages pre-programmed by you and can be sent without the need of a smart phone. This is especially useful if your phone dies and you are in an emergency situation.
 - Optional Temp/Hum/Pressure sensor can send potentially useful data to the rest of your group.
 - On-board GPS will keep sending your position even after your phone is disconnected.
