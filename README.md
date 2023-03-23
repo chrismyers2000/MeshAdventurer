@@ -1,6 +1,6 @@
 # MeshAdventurer
 ## MeshAdventurer is hardware for Meshtastic with Off-Road use in mind.
-Stay connected with your riding buddies while off-roading in places far away from civilization. Simply place your MeshAdventurer on your dash or windsheild, Or Hide it out of sight while using an external roof-mounted antenna for even more range. The MeshAdventurer is powered by [Meshtastic]( https://meshtastic.org/) Firmware and accompying app for Android and iOS. Send and recieve messages to your friends miles away without using the celluar network. 
+Stay connected with your friends while off-roading in places far away from civilization. Simply place your MeshAdventurer on your dash or windsheild and plug it in to any power source from 9-28V (or dedicated 5V input), Or Hide it out of sight while using an external roof-mounted antenna for even more range. The MeshAdventurer is powered by [Meshtastic]( https://meshtastic.org/) Firmware and accompying app for Android and iOS. Send and recieve messages to your friends miles away without using the celluar network. 
 
 
 
