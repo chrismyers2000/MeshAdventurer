@@ -5,8 +5,10 @@ Stay connected with your friends while off-roading in places far away from civil
 
 
 
+![PCB_V1 1](https://user-images.githubusercontent.com/42948238/227689694-62646fca-dc52-4a98-a8c2-4f4a4524bf05.png)
 
-![3D_Vehicle Station V1 pcb_2023-03-19 (1)](https://user-images.githubusercontent.com/42948238/226155903-f0a3d358-b210-4ae8-a519-7b6a86f0ebf4.png)
+
+
 
 ## Features:
 - 1W transmit power for extended range compared to normal Meshtastic hardware (typically 100mW-160mW).
