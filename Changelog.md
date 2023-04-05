@@ -4,7 +4,7 @@
 
 - Fixed incorrect GPS RX and TX pins (swapped)
 - Upgraded 5V regulator to 1.5A instead of 1A
-- Discovered buzzer does not work on pin 26, found trace not connected at ESP32
+- Discovered buzzer does not work, found trace not connected at ESP32 GPIO26. Fixed mistake in routing.
 
 ## V1.1
 
