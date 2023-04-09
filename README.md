@@ -28,6 +28,13 @@ Simply upload the gerber .zip file to JLCPCB and follow the instructions. Most o
 - Assemble the power circuit first and verify 5V output before soldering the ESP32 and E22 modules.
 - Flash the ESP32 using the lastest [Meshtastic Firmware](https://github.com/meshtastic/firmware/releases). Use the firmware-meshtastic-diy-v1-xxxxx.bin file. 
 
+## Materials 
+
+Ebyte LoRa module: [E22-900M30S](US $9.42  13％ Off | SX1262 LoRa Module E22-900M30S 868MHz Wireless Module 30dBm 12km Range IPEX Antenna SPI Interface Low Power Consumption EBYTE
+https://a.aliexpress.com/_mMvsri4)
+MCU: [ESP32-WROOM-32D](US $1.25  19％ Off | 1PCS ESP32 Development Board WiFi+Bluetooth Ultra-Low Power Consumption Dual Core ESP-32S ESP32-WROOM-32D ESP32-WROOM-32U ESP 32
+https://a.aliexpress.com/_mLVYDGo)
+
 ## Disclaimer
 
 The hardware is currently in testing phase but should work fine, it all worked on the breadboard. Future versions may include a Li-ion charging circuit. 
