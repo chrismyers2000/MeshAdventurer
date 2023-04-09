@@ -31,6 +31,7 @@ Simply upload the gerber .zip file to JLCPCB and follow the instructions. Most o
 ## Materials 
 
 Ebyte LoRa module: [E22-900M30S](https://a.aliexpress.com/_mMvsri4)
+
 MCU: [ESP32-WROOM-32D](https://a.aliexpress.com/_mLVYDGo)
 
 ## Disclaimer
