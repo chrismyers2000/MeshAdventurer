@@ -6,6 +6,7 @@
 - Added switching transistor to buzzer circuit
 - C3 and C4 are now a smaller package and more cost effective
 - Added basic voltage divider to GPIO35 for voltage sensing (experimental) 
+- Expanded thermal pad for 5V regulator
 
 ## V1.2
 
