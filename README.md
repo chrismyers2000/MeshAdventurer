@@ -30,10 +30,8 @@ Simply upload the gerber .zip file to JLCPCB and follow the instructions. Most o
 
 ## Materials 
 
-Ebyte LoRa module: [E22-900M30S](US $9.42  13％ Off | SX1262 LoRa Module E22-900M30S 868MHz Wireless Module 30dBm 12km Range IPEX Antenna SPI Interface Low Power Consumption EBYTE
-https://a.aliexpress.com/_mMvsri4)
-MCU: [ESP32-WROOM-32D](US $1.25  19％ Off | 1PCS ESP32 Development Board WiFi+Bluetooth Ultra-Low Power Consumption Dual Core ESP-32S ESP32-WROOM-32D ESP32-WROOM-32U ESP 32
-https://a.aliexpress.com/_mLVYDGo)
+Ebyte LoRa module: [E22-900M30S](https://a.aliexpress.com/_mMvsri4)
+MCU: [ESP32-WROOM-32D](https://a.aliexpress.com/_mLVYDGo)
 
 ## Disclaimer
 
