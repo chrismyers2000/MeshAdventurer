@@ -1,5 +1,12 @@
 # Changes
 
+## V1.3
+
+- Added debouncing circuits to encoder and button
+- Added switching transistor to buzzer circuit
+- C3 and C4 are now a smaller package and more cost effective
+- Added basic voltage divider to GPIO35 for voltage sensing (experimental) 
+
 ## V1.2
 
 - Fixed incorrect GPS RX and TX pins (swapped)
