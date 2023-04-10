@@ -30,7 +30,7 @@ Simply upload the gerber .zip file to JLCPCB and follow the instructions. Most o
 
 ## Materials 
 
-- Ebyte LoRa module: [E22-900M30S](https://a.aliexpress.com/_mMvsri4)
+- Ebyte LoRa module: 868MHz and 915Mhz [E22-900M30S](https://a.aliexpress.com/_mMvsri4) 433Mhz [E22-400M30S](https://www.aliexpress.us/item/3256801621445884.html)
 - MCU: [ESP32-WROOM-32D](https://a.aliexpress.com/_mLVYDGo)
 - GPS Module: [ATGM336H](https://www.aliexpress.us/item/3256801517715702.html)
 - Temp/Hum Module: [BME280](https://www.aliexpress.us/item/2251832663147484.html)
