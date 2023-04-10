@@ -30,11 +30,16 @@ Simply upload the gerber .zip file to JLCPCB and follow the instructions. Most o
 
 ## Materials 
 
-- Ebyte LoRa module: 868MHz and 915Mhz [E22-900M30S](https://a.aliexpress.com/_mMvsri4) 433Mhz [E22-400M30S](https://www.aliexpress.us/item/3256801621445884.html)
+- PCB SMD components are all on the bottom side of the board, check the BOM for component list. Top side components listed below.
+- Ebyte LoRa module: 868MHz and 915Mhz [E22-900M30S](https://a.aliexpress.com/_mMvsri4) or 433Mhz [E22-400M30S](https://www.aliexpress.us/item/3256801621445884.html)
 - MCU: [ESP32-WROOM-32D](https://a.aliexpress.com/_mLVYDGo)
 - GPS Module: [ATGM336H](https://www.aliexpress.us/item/3256801517715702.html)
 - Temp/Hum Module: [BME280](https://www.aliexpress.us/item/2251832663147484.html)
 - OLED Display: [SSD1306](https://www.aliexpress.us/item/3256804169233174.html) Pay attention to the VCC and GND pin sequence when ordering this module, it's common to find them reversed.
+- Rotary Encoder: [EC11](https://www.aliexpress.us/item/2261799870168498.html)
+- SMA Connector: [SMA-KWE903](https://www.lcsc.com/product-detail/RF-Connectors-Coaxial-Connectors_DreamLNK-SMA-KWE903_C914555.html)
+- Button: [KH-6X6X5H-TJ](https://www.lcsc.com/product-detail/Tactile-Switches_Shenzhen-Kinghelm-Elec-KH-6X6X5H-TJ_C2837515.html)
+- 
 
 
 ## Disclaimer
