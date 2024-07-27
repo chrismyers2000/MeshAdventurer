@@ -5,9 +5,8 @@ Stay connected with your friends while off-roading in places far away from civil
 
 
 
-![PCB_V1 1](https://user-images.githubusercontent.com/42948238/227689694-62646fca-dc52-4a98-a8c2-4f4a4524bf05.png)
-
-
+![PCB 3D V1_3](https://github.com/chrismyers2000/MeshAdventurer/blob/df65f4155d864c4f85d2ea64c8bc7dee39f9705f/Photos/V1.3/3D_PCB_V1.3_Top.png)
+![PCB 3D V1_3]()
 
 
 ## Features:
