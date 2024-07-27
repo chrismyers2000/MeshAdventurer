@@ -26,7 +26,8 @@ I used [JLCPCB](https://jlcpcb.com/) as they are fairly cheap and fast. 20 board
 Simply upload the gerber .zip file to JLCPCB and follow the instructions. Most of the components were availible from [LCSC](https://www.lcsc.com/) at the time of writing this. Components such as the ESP32 module, E22-900M30S module, buzzer, OLED display, and GPS all were sourced from Amazon and AliExpress.
 
 - Assemble the power circuit first and verify 5V output before soldering the ESP32 and E22 modules.
-- Flash the ESP32 using the lastest [Meshtastic Firmware](https://github.com/meshtastic/firmware/releases). Use the firmware-meshtastic-diy-v1-xxxxx.bin file. 
+- Flash the ESP32 using the lastest [Meshtastic Firmware](https://github.com/meshtastic/firmware/releases). Use the firmware-meshtastic-diy-v1-xxxxx.bin file.
+- R2 and R3 form a simple voltage divider to be used as a voltage sensor. It is currently set up as a 1:10 divider meaning 10V = 1V. Make sure to change the multiplier accordingly in the Power settings. Solder together the pads labled "V Sense" if using this circuit. It is connected to GPIO35. This is experimental and has not been fully tested.
 
 ## Materials 
 
