@@ -2,6 +2,7 @@
 
 ## V1.3
 
+- Fixed R4, R5, R8 values on schematic and BOM to be 1K
 - Added debouncing circuits to encoder and button
 - Added switching transistor to buzzer circuit
 - C3 and C4 are now a smaller package and more cost effective
