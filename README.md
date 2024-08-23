@@ -5,6 +5,8 @@ Check out my new raspberry pi hat for Linux-native meshtastic here: [MeshAdv Pi 
 Stay connected with your friends while off-roading in places far away from civilization. Simply place your MeshAdventurer on your dash or windsheild and plug it in to any power source from 9-28V (or dedicated 5V input), Or Hide it out of sight while using an external roof-mounted antenna for even more range. The MeshAdventurer is powered by [Meshtastic]( https://meshtastic.org/) Firmware and accompying app for Android and iOS. Send and recieve messages to your friends miles away without using the celluar network. 
 
 
+Some PCB's may be available here: https://frequencylabs.etsy.com
+
 
 
 ![PCB 3D V1_3](https://github.com/chrismyers2000/MeshAdventurer/blob/df65f4155d864c4f85d2ea64c8bc7dee39f9705f/Photos/V1.3/3D_PCB_V1.3_Top.png)
