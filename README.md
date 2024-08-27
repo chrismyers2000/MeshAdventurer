@@ -1,11 +1,13 @@
 # MeshAdventurer
 
-Check out my new raspberry pi hat for Linux-native meshtastic here: [MeshAdv Pi Hat](https://github.com/chrismyers2000/MeshAdv-Pi-Hat)
 ## MeshAdventurer is hardware for Meshtastic with Off-Road use in mind.
 Stay connected with your friends while off-roading in places far away from civilization. Simply place your MeshAdventurer on your dash or windsheild and plug it in to any power source from 9-28V (or dedicated 5V input), Or Hide it out of sight while using an external roof-mounted antenna for even more range. The MeshAdventurer is powered by [Meshtastic]( https://meshtastic.org/) Firmware and accompying app for Android and iOS. Send and recieve messages to your friends miles away without using the celluar network. 
 
 
+
 Some PCB's may be available here: https://frequencylabs.etsy.com
+
+Check out my new raspberry pi hat for Linux-native meshtastic here: [MeshAdv Pi Hat](https://github.com/chrismyers2000/MeshAdv-Pi-Hat)
 
 
 
@@ -20,19 +22,23 @@ Some PCB's may be available here: https://frequencylabs.etsy.com
 - Optional Temp/Hum/Pressure sensor can send potentially useful data to the rest of your group.
 - On-board GPS will keep sending your position even after your phone is disconnected.
 - A buzzer to notify you when messages are recieved. 
-- 100% compatible with official Meshtastic DIY V1 firmware so you can stay up to date when new versions are released. No custom firmware needed!
+- Compatible with official Meshtastic Hydra firmware variant so you can stay up to date when new versions are released. No custom firmware needed!
 
 ## Instructions:
 
-This is currently a DIY project only. You will have to have the PCBs manufactured and assembled or solder the components yourself. 
-I used [JLCPCB](https://jlcpcb.com/) as they are fairly cheap and fast. 20 boards cost me just under $12 USD not including shipping. 
+### NOTICE:
+>I was made aware that there was a change in the DIY V1 firmware. If you are still using that version, please switch to the Hydra variant. The DIY V1 variant now causes a problem where the power amplifier in the E22 module doesnt get turned on, resulting in low output power (around 22dbm instead of 30dbm)
+
+This is currently MOSTLY a DIY project however you can sometimes find Boards on my Etsy store here: https://frequencylabs.etsy.com . You will have to have the PCBs manufactured and assembled or solder the components yourself. 
+I used [JLCPCB](https://jlcpcb.com/) as they are fairly cheap and fast. 
 Simply upload the gerber .zip file to JLCPCB and follow the instructions. Most of the components were availible from [LCSC](https://www.lcsc.com/) at the time of writing this. Components such as the ESP32 module, E22-900M30S module, buzzer, OLED display, and GPS all were sourced from Amazon and AliExpress.
 
 - Assemble the power circuit first and verify 5V output before soldering the ESP32 and E22 modules.
-- Flash the ESP32 using the lastest [Meshtastic Firmware](https://github.com/meshtastic/firmware/releases). Use the firmware-meshtastic-diy-v1-xxxxx.bin file.
+- Flash the ESP32 using the Official web flasher here: https://flasher.meshtastic.org/
+- Select Hydra as the device, then the firmware version you would like and click Flash. (Note, for the webflasher to work you may need to use Chrome or Egde browsers)
 - R2 and R3 form a simple voltage divider to be used as a voltage sensor. It is currently set up as a 1:10 divider meaning 10V = 1V. Make sure to change the multiplier accordingly in the Power settings. Solder together the pads labled "V Sense" if using this circuit. It is connected to GPIO35. This is experimental and has not been fully tested.
 
-## Materials 
+## Materials: 
 
 - PCB SMD components are all on the bottom side of the board, check the BOM for component list. Top side components listed below.
 - Ebyte LoRa module: 868MHz and 915Mhz [E22-900M30S](https://a.aliexpress.com/_mMvsri4) or 433Mhz [E22-400M30S](https://www.aliexpress.us/item/3256801621445884.html)
