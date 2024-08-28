@@ -42,7 +42,7 @@ Simply upload the gerber .zip file to JLCPCB and follow the instructions. Most o
 
 - PCB SMD components are all on the bottom side of the board, check the BOM for component list. Top side components listed below.
 - Ebyte LoRa module: 868MHz and 915Mhz [E22-900M30S](https://a.aliexpress.com/_mMvsri4) or 433Mhz [E22-400M30S](https://www.aliexpress.us/item/3256801621445884.html)
-- MCU: [ESP32-WROOM-32D](https://a.aliexpress.com/_mLVYDGo)
+- MCU: [ESP32-WROOM-32D](https://a.aliexpress.com/_mLVYDGo) (25.4mm Pin span)
 - GPS Module: [ATGM336H](https://www.aliexpress.us/item/3256801517715702.html)
 - Temp/Hum Module: [BME280](https://www.aliexpress.us/item/2251832663147484.html)
 - OLED Display: [SSD1306](https://www.aliexpress.us/item/3256804169233174.html) Pay attention to the VCC and GND pin sequence when ordering this module, it's common to find them reversed.
