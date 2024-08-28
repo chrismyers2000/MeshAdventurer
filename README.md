@@ -35,7 +35,7 @@ Simply upload the gerber .zip file to JLCPCB and follow the instructions. Most o
 
 - Assemble the power circuit first and verify 5V output before soldering the ESP32 and E22 modules.
 - Flash the ESP32 using the Official web flasher here: https://flasher.meshtastic.org/
-- Select Hydra as the device, then the firmware version you would like and click Flash. (Note, for the webflasher to work you may need to use Chrome or Egde browsers)
+- Select Hydra as the device, then the firmware version you would like and click Flash. (Note, for the webflasher to work you may need to use Chrome or Edge browsers)
 - R2 and R3 form a simple voltage divider to be used as a voltage sensor. It is currently set up as a 1:10 divider meaning 10V = 1V. Make sure to change the multiplier accordingly in the Power settings. Solder together the pads labled "V Sense" if using this circuit. It is connected to GPIO35. This is experimental and has not been fully tested.
 
 ## Materials: 
