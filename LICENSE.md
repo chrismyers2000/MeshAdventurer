@@ -18,7 +18,7 @@ The TAPR Open Hardware License is designed to provide a way for open hardware de
    You may not use the Licensed Work, in whole or in part, for any commercial purpose without prior written permission from the Licensor.  
 
 4. **Attribution**  
-   You must retain all copyright notices, acknowledgments, and trademarks in all copies of the Licensed Work and any derivative works, ensuring appropriate attribution to the original author (FrequencyLabs).  
+   You must retain all copyright notices, acknowledgments, and trademarks in all copies of the Licensed Work and any derivative works, ensuring appropriate attribution to the original author (Chris Myers).  
 
 5. **Share-Alike Requirement**  
    If You distribute copies or modified versions of the Licensed Work, You must include this same License in the distribution and keep it non-commercial.  
